@@ -1,7 +1,7 @@
 # lisehr
 ## Electronic Health Record
 
-Objetivos clínicos de los EHR
+### Objetivos clínicos de los EHR
 
 Desde una perspectiva de atención clínica más específica (en lugar de una perspectiva de mantenimiento de registros), se han identificado los siguientes requisitos durante el desarrollo de openEHR:
 
@@ -13,7 +13,9 @@ Apoyo a las decisiones clínicas para mejorar la seguridad del paciente y reduci
 
 Acceso a aplicaciones informáticas basadas en estándares.
 
-La HCE de Atención Integrada es muy prometedora: generalizar y hacer ampliamente disponibles los beneficios de la informatización que se han demostrado individualmente y en entornos aislados. Estos se pueden resumir como:
+La EHR de Atención Integrada es muy prometedora: generalizar y hacer ampliamente disponibles los beneficios de la informatización que se han demostrado individualmente y en entornos aislados.
+
+Estos se pueden resumir como:
 
 Reducir los eventos adversos derivados de errores de medicación, como interacciones, duplicaciones o tratamientos inadecuados, y los costos indirectos asociados con estos;
 
