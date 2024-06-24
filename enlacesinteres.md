@@ -6,7 +6,7 @@ https://specifications.openehr.org/releases/BASE/latest/architecture_overview.ht
 
 https://www.healthit.gov/playbook/electronic-health-records/#section-1-1
 
-### Section 5
+#### Section 5
 ## Patient Engagement
 
 https://www.healthit.gov/playbook/patient-engagement/
