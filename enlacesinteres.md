@@ -11,6 +11,10 @@ https://www.healthit.gov/playbook/electronic-health-records/#section-1-1
 
 https://www.healthit.gov/playbook/patient-engagement/
 
+## Patient Engagement Playbook
+
+https://www.healthit.gov/playbook/pe/
+
 ## Clinical decision supporter
 
 https://www.ncbi.nlm.nih.gov/books/NBK543516/
