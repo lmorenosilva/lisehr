@@ -2,6 +2,10 @@
 
 https://specifications.openehr.org/releases/BASE/latest/architecture_overview.html
 
+## EHR Electronic Health Record's
+
+https://www.healthit.gov/playbook/electronic-health-records/#section-1-1
+
 ## Clinical decision supporter
 
 https://www.ncbi.nlm.nih.gov/books/NBK543516/
