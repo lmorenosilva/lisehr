@@ -16,7 +16,7 @@ https://www.aafp.org/pubs/fpm/issues/2020/0700/p5.html
 
 ## 5 razones para dictar notas clínicas durante las visitas de pacientes
 
-## Cinco razones para dictar notas clínicas en presencia de tus pacientes
+### Cinco razones para dictar notas clínicas en presencia de tus pacientes
 
 El dictado tiene muchos beneficios como forma de capturar datos clínicos. Pero muchos argumentan que trasladar este proceso de documentación a la sala de examen crea un valor adicional para los pacientes y los proveedores. 
 
