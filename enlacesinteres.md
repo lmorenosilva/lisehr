@@ -18,6 +18,9 @@ https://www.aafp.org/pubs/fpm/issues/2020/0700/p5.html
 
 https://mobius.md/2022/10/31/5-reasons-to-dictate-clinical-notes-during-patient-visits/      
 
+## EHR Contract guide 
+https://www.healthit.gov/sites/default/files/playbook/pdf/ehr-contract-guide.pdf
+
 
 
 
