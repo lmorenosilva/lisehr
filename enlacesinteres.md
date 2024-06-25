@@ -6,6 +6,10 @@ https://specifications.openehr.org/releases/BASE/latest/architecture_overview.ht
 
 https://www.healthit.gov/playbook/electronic-health-records/#section-1-1
 
+## Que es un EHR
+
+https://www.healthit.gov/faq/what-electronic-health-record-ehr
+
 #### Section 5
 ## Patient Engagement
 
