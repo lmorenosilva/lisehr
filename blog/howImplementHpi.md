@@ -1,3 +1,6 @@
+# ¿Cómo se documenta un informe HPI (Historial de enfermedad actual ?
+
+
 Obtener un historial preciso de la enfermedad actual es el primer paso fundamental para determinar la enfermedad del paciente.
 Muchas veces, los médicos podrán hacer un diagnóstico basándose en el historial del paciente.
 
