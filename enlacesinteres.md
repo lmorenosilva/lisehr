@@ -34,6 +34,10 @@ https://mobius.md/2022/10/31/5-reasons-to-dictate-clinical-notes-during-patient-
 ## EHR Contract guide 
 https://www.healthit.gov/sites/default/files/playbook/pdf/ehr-contract-guide.pdf
 
+## Electronic Health Record Implementation: A Review of Resources and Tools
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6822893/
+
 
 
 
