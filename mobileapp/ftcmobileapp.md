@@ -1,7 +1,7 @@
 
 # Pagina Principal Health Privacy (FTC)
 
-(https://www.ftc.gov/business-guidance/privacy-security/health-privacy)
+https://www.ftc.gov/business-guidance/privacy-security/health-privacy
 
 
 ## Mobile Health App Interactive Tool
